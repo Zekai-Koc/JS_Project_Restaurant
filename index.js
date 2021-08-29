@@ -40,7 +40,7 @@ const menu = [
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore amet neque quae, dolores assumenda accusantium error facere facilis maxime numquam eveniet dolorum asperiores officiis necessitatibus libero doloremque vel adipisci consectetur!"
      },
      {
-        id: 5,
+        id: 6,
         title: "yyyyyyyyyy ııııııııııı",
         category: "dinner",
         price: 15.99,
@@ -48,7 +48,7 @@ const menu = [
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore amet neque quae, dolores assumenda accusantium error facere facilis maxime numquam eveniet dolorum asperiores officiis necessitatibus libero doloremque vel adipisci consectetur!"
      },
      {
-        id: 5,
+        id: 7,
         title: "eeeeeeeeeee",
         category: "lunch",
         price: 15.99,
